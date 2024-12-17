@@ -1,0 +1,16 @@
+body{
+    margin-top: 300px;
+    margin-right: 100px;
+    background-color: rgb(216, 96, 176);
+}
+
+button{
+    height:  80px;
+    width: 80px;
+    border-radius: 10px;
+
+}
+center{
+text-decoration: solid;
+
+}
